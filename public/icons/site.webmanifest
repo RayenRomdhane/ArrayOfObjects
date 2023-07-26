@@ -1,0 +1,7 @@
+{
+    "name": "leto-modelizer",
+    "short_name": "modelizer",
+    "theme_color": "#474262",
+    "background_color": "#474262",
+    "display": "standalone"
+}
