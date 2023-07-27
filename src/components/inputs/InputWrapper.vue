@@ -95,6 +95,7 @@ const inputList = {
   Select: defineAsyncComponent(() => import('./SelectInput')),
   Link: defineAsyncComponent(() => import('./LinkInput')),
   Array: defineAsyncComponent(() => import('./ArrayInput')),
+  ArrayOfObjects: defineAsyncComponent(() => import('./ArrayOfObjectsInput')),
 };
 const { t } = useI18n();
 
